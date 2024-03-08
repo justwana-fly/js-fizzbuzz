@@ -10,14 +10,6 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-.odd {
-    color: red;
-}
-
-.even {
-    color: green;
-}
-
 .box {
     width: 90px;
     height: 90px;
